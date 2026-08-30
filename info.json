@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "dd33dfc0d32aa3f8a0f12804841c7cb80ae6c082",
+    "author": "Gilberto Camara <gilberto.camara@inpe.br>",
+    "time": "2026-01-14T18:08:19Z",
+    "files": 109,
+    "merge": true,
+    "message": "Merge pull request #1432 from e-sensing/dev\n\nPre-release 1.5.4"
+  },
+  "repo": "https://github.com/e-sensing/sits",
+  "pkg": "sits",
+  "time": "2026-08-30T07:46:58Z"
+}
